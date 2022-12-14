@@ -8,3 +8,5 @@ Reflect:
 This was a great learning experience!
 Getting something on GitHub and for others to see is a great motivator to keep contributing to repos i'm finding. 
 Learning how to use GitHub to host sites was interesting and i will have to keep that in the back of my mind for future projects. 
+
+I hope you enjoy what I made :)
